@@ -96,4 +96,4 @@ This project applies machine learning techniques to bioactivity data from the Ch
 ---
 
 ## 📎 References
-- [ChEMBL Database](https://
+- [ChEMBL Database](https://www.ebi.ac.uk/chembl/)
