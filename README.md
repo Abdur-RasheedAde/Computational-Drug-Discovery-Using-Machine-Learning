@@ -1,10 +1,10 @@
 # 🧬 Computational Drug Discovery Using Machine Learning
 
 ## 🧠 **Author** Abdur-Rasheed Abiodun Adeoye  
-Data Analyst | Data Scientist | Bioinformatics Enthusiast
+Data Analyst | Data Scientist | Bioinformatics Enthusiast   
 **Date:** August 2025  
 **Domain:** Bioinformatics, Cheminformatics, Drug Discovery  
-**Tools & Libraries:** Python, RDKit, PaDEL-Descriptor, Scikit-learn, Seaborn, LazyPredict, ChEMBL Web Services
+**Tools & Libraries:** Python, RDKit, PaDEL-Descriptor, Scikit-learn, Seaborn, LazyPredict, ChEMBL Web Services   
 **Contacts:** 
 - [LinkedIn](https://www.linkedin.com/in/abdur-rasheed-adeoye/)
 - [GitHub](https://github.com/Abdur-RasheedAde)
